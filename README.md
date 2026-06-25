@@ -4,7 +4,7 @@ This repository documents my journey into full stack development—learning how 
 
 From structuring pages with HTML and styling them with CSS to adding interactivity with JavaScript, working with Python, and integrating APIs, each project here is part of my hands-on exploration of web development.
 
-## 📚 Topics Covered
+## 📚 Topics Covered 
 
 * HTML
 * CSS
